@@ -1,4 +1,4 @@
-# Hi, I'm P S Shaminda!
+# Hi, I'm Supun Shaminda!
 
 Welcome to my GitHub profile.
 
@@ -8,4 +8,4 @@ Welcome to my GitHub profile.
 
 ---
 
-⭐️ From P S Shaminda
+⭐️ From Supun Shaminda
